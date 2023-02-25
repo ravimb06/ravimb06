@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Ali, Python backend developer from <b>Moscow, Russia</b></p>
+<p>Welcome to my page! </br> I'm Ali, Python developer from <b>Moscow, Russia</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />

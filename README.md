@@ -4,12 +4,12 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-45b8d8?style=flat-square&logo=django&logoColor=white" />
-  <img alt="django REST framework" src="https://img.shields.io/badge/-django REST framework-1a73e8?style=flat-square&django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-45b8d8?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Django REST framework" src="https://img.shields.io/badge/-Django REST framework-1a73e8?style=flat-square&django&logo=django&Color=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-2088FF?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 
